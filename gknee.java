@@ -1,5 +1,5 @@
 import java.util.*;
-public class gk49 {
+public class gknee {
     public static void main(String args[])
     {
        Scanner in=new Scanner(System.in);
